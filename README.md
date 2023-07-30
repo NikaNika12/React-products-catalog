@@ -2,9 +2,9 @@ Products catalog
 
 This React application with LocalStorage API and Hooks is a catalog with products that contains blocks: “Home”, “Phones”, “Tablets”, “Accessories”, “Favorite” and "Cart" stores. The project was developed on the basis of the training course "Mate Academy".
 
-DEMO LINK - https://nikanika12.github.io/React-catalog/
+DEMO LINK - https://nikanika12.github.io/React-products-catalog/
 
-GITHUB REPOSITORY LINK - https://github.com/NikaNika12/React-catalog
+GITHUB REPOSITORY LINK - https://github.com/NikaNika12/React-products-catalog
 
 FIGMA DESIGN LINK - https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2.
 
